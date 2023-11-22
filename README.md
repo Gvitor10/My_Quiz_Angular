@@ -1,27 +1,39 @@
-# ProjetoBuzzFeed
+# My_Quiz_Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+_Português Pt-Br_
 
-## Development server
+O projeto *_My_Quiz_Angular_*, é uma aplicação Web construida com o Framework Angular, baseado em um site de Quizzes, o *_BuzzFeed_*. O aplicativo consiste em um Quiz de 5 peguntas que dão 4 alternativas para o usúario escolher, aonde cada escolha realizada, influência o resultado final do teste. O principal objetivo é testar os conhecimentos adquiridos durante as aulas do _bootcamp Code The Futere Banco Pan_ na plataforma _Dio_ pelo professor _Felipe Aguiar_ na criação de aplicaçôes web dinâmicas e interativas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+*Recursos e Funcionalidades Principais:*
 
-## Code scaffolding
+1. *Interface de usuário interativa*
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. *Multiplos resultados de teste:* A cada escolha, as respostas são armazenadas e processadas, dependendo da escolha do usuário pode se obter resultados diferentes.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+_Inglish En_
 
-## Running unit tests
+The *_My_Quiz_Angular_* project is a Web application built with the Angular Framework, based on a Quizzes website, *_BuzzFeed_*. The application consists of a Quiz of 5 questions that give 4 alternatives for the user to choose from, where each choice made influences the final result of the test. The main objective is to test the knowledge acquired during the _bootcamp Code The Futere Banco Pan_ classes on the _Dio_ platform by professor _Felipe Aguiar_ in the creation of dynamic and interactive web applications.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+*Key Features and Functionality:*
 
-## Running end-to-end tests
+1. *Interactive user interface*
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. *Multiple test results:* With each choice, the answers are stored and processed, depending on the user's choice, different results can be obtained.!
 
-## Further help
+## Conceitos Importantes / Important Concepts
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Data Binding
+- Two Way Data Binding
+- Life Cycle Hooks
+- Router
+- Módulos Angular
+
+### Tecnologias / technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Angular](https://img.shields.io/badge/angular-000.svg?style=for-the-badge&logo=angular&logoColor=red)
