@@ -2,7 +2,7 @@
 
 _Português Pt-Br_
 
-O projeto *_My_Quiz_Angular_*, é uma aplicação Web construida com o Framework Angular, baseado em um site de Quizzes, o *_BuzzFeed_*. O aplicativo consiste em um Quiz de 5 peguntas que dão 4 alternativas para o usúario escolher, aonde cada escolha realizada, influência o resultado final do teste. O principal objetivo é testar os conhecimentos adquiridos durante as aulas do _bootcamp Code The Futere Banco Pan_ na plataforma _Dio_ pelo professor _Felipe Aguiar_ na criação de aplicaçôes web dinâmicas e interativas.
+O projeto *_My_Quiz_Angular_*, é uma aplicação Web construida com o Framework Angular, baseado em um site de Quizzes, o *_BuzzFeed_*. O aplicativo consiste em um Quiz de 5 perguntas que dão 4 alternativas para o usuário escolher, aonde cada escolha realizada, influência o resultado final do teste. O principal objetivo, é testar os conhecimentos adquiridos durante as aulas do _bootcamp Code The Future Banco Pan_ na plataforma _Dio_ pelo professor _Felipe Aguiar_ na criação de aplicaçôes web dinâmicas e interativas.
 
 *Recursos e Funcionalidades Principais:*
 
@@ -13,7 +13,7 @@ O projeto *_My_Quiz_Angular_*, é uma aplicação Web construida com o Framework
 
 _Inglish En_
 
-The *_My_Quiz_Angular_* project is a Web application built with the Angular Framework, based on a Quizzes website, *_BuzzFeed_*. The application consists of a Quiz of 5 questions that give 4 alternatives for the user to choose from, where each choice made influences the final result of the test. The main objective is to test the knowledge acquired during the _bootcamp Code The Futere Banco Pan_ classes on the _Dio_ platform by professor _Felipe Aguiar_ in the creation of dynamic and interactive web applications.
+The *_My_Quiz_Angular_* project is a Web application built with the Angular Framework, based on a Quizzes website, *_BuzzFeed_*. The application consists of a Quiz of 5 questions that give 4 alternatives for the user to choose from, where each choice made influences the final result of the test. The main objective is to test the knowledge acquired during the _bootcamp Code The Future Banco Pan_ classes on the _Dio_ platform by professor _Felipe Aguiar_ in the creation of dynamic and interactive web applications.
 
 *Key Features and Functionality:*
 
